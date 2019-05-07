@@ -293,7 +293,7 @@
     </message>
     <message>
         <source>Regular Size (4/3)</source>
-        <translation>szabályos méret (4/3)</translation>
+        <translation>Szabályos méret (4/3)</translation>
     </message>
     <message>
         <source>Custom Size</source>
@@ -413,7 +413,7 @@
     </message>
     <message>
         <source>Small Line</source>
-        <translation>Keskeny vonal</translation>
+        <translation>Vékony vonal</translation>
     </message>
     <message>
         <source>Medium Line</source>
@@ -561,7 +561,7 @@
     </message>
     <message>
         <source>Annotate Document</source>
-        <translation>Dokuemtum kijegyzetelése</translation>
+        <translation>Dokumentumba rajzolás</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
@@ -862,11 +862,11 @@
     </message>
     <message>
         <source>Element ID = </source>
-        <translation type="unfinished"></translation>
+        <translation>Elem azonosító (ID)</translation>
     </message>
     <message>
         <source>Content is not supported in destination format.</source>
-        <translation type="unfinished"></translation>
+        <translation>A tartalom nem támogatott a célformátumban</translation>
     </message>
 </context>
 <context>
@@ -1186,15 +1186,15 @@
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Elem eltávolítása</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the selected item(s) ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan eltávolítja a kiválasztott elem(ek)et?</translation>
     </message>
     <message>
         <source>Title page</source>
-        <translation type="unfinished"></translation>
+        <translation>Címoldal</translation>
     </message>
 </context>
 <context>
@@ -1244,39 +1244,39 @@
     <name>UBDocumentNavigator</name>
     <message>
         <source>Page %0</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldal: %0</translation>
     </message>
 </context>
 <context>
     <name>UBDocumentReplaceDialog</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Elfogad</translation>
+        <translation>Elfogad</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Csere</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Mégse</translation>
+        <translation>Mégse</translation>
     </message>
     <message>
         <source>The name %1 is allready used.
 Keeping this name will replace the document.
 Providing a new name will create a new document.</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) %1 név már foglalt. A név megtartása felülírja a meglevő dokumentumot. Egy új név új dokumentumot biztosít</translation>
     </message>
 </context>
 <context>
     <name>UBDocumentTreeModel</name>
     <message>
         <source>My documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentumaim</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation type="unfinished">Kuka</translation>
+        <translation>Kuka</translation>
     </message>
     <message numerus="yes">
         <source>%1 pages copied</source>
@@ -1299,11 +1299,11 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elem eltávolítása</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the selected item(s) ?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Biztosan el akarja távolítani a kijelölt elem(ek)et?</translation>
     </message>
 </context>
 <context>
@@ -1338,7 +1338,7 @@ Providing a new name will create a new document.</source>
     <name>UBDraggableThumbnail</name>
     <message>
         <source>Page %0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oldal %0</translation>
     </message>
 </context>
 <context>
@@ -1728,7 +1728,7 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Import failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Importálás sikertelen</translation>
     </message>
 </context>
 <context>
@@ -1873,7 +1873,7 @@ Figyelmen kívül hagyja ezeket a hibákat ennél a hosztnál?</translation>
     </message>
     <message>
         <source>You can always access the OpenBoard Document Importer through the Preferences panel in the About tab. Warning, if you have already imported your Open-Sankore datas, you might loose your current OpenBoard documents.</source>
-        <translation>Mindig elérheti az OpenBoard Importálót a Tulajdonságok panelen a Rólunk fülön. Figyelem, ha már importálta az Open-Sankoré adatait, elveszítheti az aktuális OpenBoard dokuemntumait.</translation>
+        <translation>Mindig elérheti az OpenBoard Importálót a Tulajdonságok panelen a Rólunk fülön. Figyelem, ha már importálta az Open-Sankoré adatait, elveszítheti az aktuális OpenBoard dokumentumait.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2097,7 +2097,7 @@ Figyelmen kívül hagyja ezeket a hibákat ennél a hosztnál?</translation>
     </message>
     <message>
         <source>Compass</source>
-        <translation>Iránytű</translation>
+        <translation>Körző</translation>
     </message>
     <message>
         <source>Protractor</source>
@@ -2548,11 +2548,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Strong</source>
-        <translation>Erős</translation>
+        <translation>Vastag</translation>
     </message>
     <message>
         <source>Fine</source>
-        <translation>finom</translation>
+        <translation>Vékony</translation>
     </message>
     <message>
         <source>Pen is Pressure Sensitive</source>
@@ -2598,19 +2598,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Creation date</source>
-        <translation type="unfinished"></translation>
+        <translation>Létrehozés dátuma</translation>
     </message>
     <message>
         <source>Update date</source>
-        <translation type="unfinished"></translation>
+        <translation>Módosítás dátuma</translation>
     </message>
     <message>
         <source>Alphabetical order</source>
-        <translation type="unfinished"></translation>
+        <translation>Betűrend</translation>
     </message>
     <message>
         <source>Sort Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendezési szempont</translation>
     </message>
 </context>
 <context>
@@ -2781,7 +2781,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Swap first and second view displays</source>
-        <translation type="unfinished"></translation>
+        <translation>Az elsődleges és a másodlagos kijelző felcserélése</translation>
     </message>
 </context>
 <context>
